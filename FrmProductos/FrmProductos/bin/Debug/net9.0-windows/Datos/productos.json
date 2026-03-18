@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1234,
+    "Nombre": "Lenovo Legion",
+    "Precio": 2500,
+    "Cantidad": 5
+  },
+  {
+    "Id": 4321,
+    "Nombre": "MSI GF 63VE",
+    "Precio": 550,
+    "Cantidad": 10
+  }
+]

@@ -1,0 +1,16 @@
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\bin\Debug\net9.0-windows\FrmProductos.exe
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\bin\Debug\net9.0-windows\FrmProductos.deps.json
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\bin\Debug\net9.0-windows\FrmProductos.runtimeconfig.json
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\bin\Debug\net9.0-windows\FrmProductos.dll
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\bin\Debug\net9.0-windows\FrmProductos.pdb
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.Form1.resources
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.csproj.GenerateResource.cache
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.AssemblyInfoInputs.cache
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.AssemblyInfo.cs
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.dll
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\refint\FrmProductos.dll
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.pdb
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\FrmProductos.genruntimeconfig.cache
+C:\Users\luiss\source\repos\FrmProductos\FrmProductos\obj\Debug\net9.0-windows\ref\FrmProductos.dll
